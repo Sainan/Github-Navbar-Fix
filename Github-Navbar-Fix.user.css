@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Github Navbar Fix
+@version        1.0.0
+@author         Sainan
+@namespace      Sainan
+==/UserStyle== */
+
+@-moz-document domain("github.com") {
+    #repository-container-header {
+        margin: auto;
+        max-width: 1250px;
+    }
+}
